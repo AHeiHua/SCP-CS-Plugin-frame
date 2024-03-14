@@ -1,7 +1,7 @@
 ﻿using Akequ.Classes;
 using HeiHua;
 
-public class Test
+public class PlayerTest
 {
     public void example()
     {

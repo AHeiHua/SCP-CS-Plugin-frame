@@ -1,0 +1,2 @@
+D:\C#\HeiHua 框架\obj\Debug\HeiHua 框架.csproj.AssemblyReference.cache
+D:\C#\HeiHua 框架\obj\Debug\HeiHua 框架.csproj.CoreCompileInputs.cache

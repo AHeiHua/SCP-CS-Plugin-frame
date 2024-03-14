@@ -2,7 +2,7 @@
 
 namespace HeiHua
 {
-    public class other
+    public class Other
     {
         public string GetRandomString()
         {

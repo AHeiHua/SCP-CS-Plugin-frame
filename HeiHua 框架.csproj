@@ -330,12 +330,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="Example\Event.cs" />
+    <Compile Include="Example\GetPlayer.cs" />
     <Compile Include="log.cs" />
     <Compile Include="MusicManager.cs" />
     <Compile Include="Other.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="README.MD" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
